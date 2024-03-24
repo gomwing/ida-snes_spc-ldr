@@ -1,6 +1,8 @@
 # VisualStudio.gitignore start -------------------------------------------------
 # <https://github.com/github/gitignore/blob/master/VisualStudio.gitignore>
 
+.*/
+
 ## Ignore Jetbrains IDE directory (CLion, App Code)
 .idea
 
